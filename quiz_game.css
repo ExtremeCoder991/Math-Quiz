@@ -1,0 +1,48 @@
+body {
+    background-image: url("https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fbackgroundcheckall.com%2Fwp-content%2Fuploads%2F2017%2F12%2Fbackground-images-for-login-form-8.jpg&f=1&nofb=1");
+    text-align: center;
+}
+
+#p {
+    color: white;
+}
+
+#ptext1 {
+    border-radius: 25px;
+    background-color: White;
+    color: black;
+    width: 250px;
+}
+
+#ptext2 {
+    border-radius: 25px;
+    background-color: White;
+    color: black;
+    width: 250px;
+}
+
+#loginbutton {
+    border-radius: 25px;
+    background-color: #7fe706;
+    color: white;
+    border-color: black;
+    height: 30px;
+    width: 75px;
+    font-size: 18px;
+    font-family: fantasy;
+    text-align: center;
+}
+
+#output {
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #AA4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+
+#number1,
+#number2 {
+    width: 200px;
+}
