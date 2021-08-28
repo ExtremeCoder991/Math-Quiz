@@ -46,3 +46,8 @@ body {
 #number2 {
     width: 200px;
 }
+
+#player1_score,
+#player2_score {
+    color: white;
+}
