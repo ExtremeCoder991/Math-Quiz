@@ -47,13 +47,13 @@ function check() {
         question_turn = "player1"
         document.getElementById("question_turn").innerHTML = "Question Turn - " + player1_name;
     }
-    if (answer_turn)  == "player_1") {
+    if (answer_turn == "player_1") {
         answer_turn = "player2"
         document.getElementById("answer_turn").innerHTML = "Answer Turn - " + player2_name;
     } else {
         answer_turn = "player1"
         document.getElementById("answer_turn").innerHTML = "Answer Turn - " + player1_name;
     }
-    
+
     document.getElementById("output").innerHTML = " ";
 }
